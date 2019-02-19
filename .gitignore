@@ -1,0 +1,10 @@
+
+# Environment
+venv/
+
+# Test
+.pytest_cache/
+
+__pycache__
+
+.idea/

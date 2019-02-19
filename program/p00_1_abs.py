@@ -1,6 +1,5 @@
 import math
 
-#부호 판단
 
 def abs_sign(a) :
     if a >= 0 :
@@ -8,7 +7,6 @@ def abs_sign(a) :
     else :
         return -a
 
-#제곱-제곱근
 
 def abs_square(a) :
     b = a * a
