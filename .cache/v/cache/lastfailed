@@ -1,1 +1,3 @@
-{}
+{
+  "tests/p11_test.py::test_qsort2": true
+}
